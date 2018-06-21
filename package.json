@@ -83,6 +83,6 @@
   },
   "dependencies": {
     "debug": "^2.6.3",
-    "watson-developer-cloud": "^2.28.0"
+    "watson-developer-cloud": "^3.5.0"
   }
 }
